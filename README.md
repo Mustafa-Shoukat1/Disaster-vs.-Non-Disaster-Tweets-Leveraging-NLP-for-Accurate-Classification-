@@ -14,9 +14,9 @@
         <p style="color: #2980B9; font-size: 16px; font-style: italic; margin: 10px 0;">
             <strong>About Notebook:</strong> 🧠 In this notebook, From Tweets to Insights: NLP for Disaster Detection on Social Media 🌍💬.
         </p>
-        <p style="color: #27AE60; font-size: 16px; font-style: italic; margin: 10px 0;">
-          #  This notebook explores the application of Natural Language Processing (NLP) techniques to classify tweets as either related to disasters or not. By leveraging various NLP tools and methods, we aim to create an effective model that can automatically identify disaster-related content on social media.
-        </p>
+       <strong><p style="color: #27AE60; font-size: 16px; font-style: italic; margin: 10px 0;">
+           This notebook explores the application of Natural Language Processing (NLP) techniques to classify tweets as either related to disasters or not. By leveraging various NLP tools and methods, we aim to create an effective model that can automatically identify disaster-related content on social media.
+        </p></strong>
         <h2 style="color: red; margin-top: 15px; font-size: 28px;">Contact Information</h2>
         <table style="width: 100%; margin-top: 15px; border-collapse: collapse;">
             <tr style="background-color: #64B5F6; color: #ffffff;">
